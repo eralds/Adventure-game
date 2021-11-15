@@ -31,3 +31,9 @@ It is recomended you have at least 2-3 healing potions with you when you attack 
 (Extra tip. If you cannot defeat the Demon you can buy a secret weapon in the store
 By using "buy -1" you can buy Excalibur which costs 0 and has  100 attack.
 This is meant as an easter egg of the game)
+
+# Map
+
+![map](https://user-images.githubusercontent.com/94328315/141755773-5d370dd2-f72a-40bb-8071-25bfc3dfc6e7.png)
+
+

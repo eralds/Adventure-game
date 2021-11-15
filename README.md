@@ -1,6 +1,7 @@
 # Adventure-game
 A text based adventure rpg in scala
-https://user-images.githubusercontent.com/94328315/141773908-e0e9c649-c380-489f-ab5d-96638d28a0dc.mp4
+
+![game](https://user-images.githubusercontent.com/94328315/141774261-87735d28-1df5-45ff-a0fa-c4ff84cbe7b4.gif)
 
 
 
